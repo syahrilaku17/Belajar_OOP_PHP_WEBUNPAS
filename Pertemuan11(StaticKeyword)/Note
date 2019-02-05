@@ -1,0 +1,15 @@
+Static Keyword
+
+=======================================================================
+
+
+Class MErupakan template dari object
+
+- kita bisa mengakses property dan method dalam koneks kelas
+
+Static Keyword :
+- Member yang terikat dengan class, bukan dengan object
+- Nilai static akan selalu tetap meskipun object di-instansiasi berulangkali
+- Membuat Prosedural
+- biasanya digunakan untuk membuat fungsi helper 
+- di gunakan class-class pada frame work

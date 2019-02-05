@@ -1,0 +1,26 @@
+Kelas Dan Objek ( Sanagat Penting Sebagai Dasar)
+
+Class/Kelas => Blueprint Sebagai Wadah Object
+
+Object => Implementasi/Instance dari rancangan Kelas
+
+Analogi Kelas Dan Object Seperti Perumahan Rumah atau Rumah-rumah
+Bero\peran Sebagau Object
+Sedangkan Lahan Atau Tanah Berperan Sebagai Kelasnya
+
+Class :
+
+1. Blueprint/template untuk membuat instance ari Object
+2. Class Mendefinisikan Object
+3. Menyimpan Data dan Perilaku yang di sebut dengan property dan 
+   method
+
+Cara Membuat Kelas : 
+    - di Awali dengan menulis Keyword class, diikuti nama dan di batasi dengan {}   
+       untuk Menyimpan property dan method
+    - Aturan Penamaan Sama Seperti Variable
+    - Contoh IniAdalahKeas
+
+Object :
+
+    instance yang di definisikan oleh Kelas

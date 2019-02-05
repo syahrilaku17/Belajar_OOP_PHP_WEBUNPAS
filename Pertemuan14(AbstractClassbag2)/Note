@@ -1,0 +1,24 @@
+Abstrak Kelas 
+- Sebuah kelas yang tidak dapat di-instansiasi
+- disebut kelas Abstrak
+- akan mendefinisikan interface untuk kelas lain menjadi turunannya
+- berperan sebagai kerangka dasar untuk kelas turunannya
+- memiliki minimal 1 method Abstrak
+- di gunakan dalam pewarisan untuk memaksakan implemetasi method 
+  abstrak yang sama untuk semua turunan kelasnya
+- semua kelas turunan, harus mengimplementasikan method abstark yang 
+  ada di kelas abstarknya
+- kelas abstrak boleh memiliki property / method regular
+- kelas abstark boleh memiliki property / static method
+
+COntoh Lain :
+
+Class Mobil ekstends kendaraan
+
+alsan kelas abstrak:
+
++ mempresentasikan ide atau konsep dasar
++ Composition Over inheritance
++ Salah satu cara menerapkan polimorphism
++ sentralisasi Logic
++ Mempermudah pekerjaan TIM

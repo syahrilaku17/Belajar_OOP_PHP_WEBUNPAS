@@ -1,0 +1,10 @@
+constan 
+================================================================
+=> sebuah identifier untuk menimpan nilai
+
+nilainya tidak bisa berubah ketika di setting di awal
+
+define() => tidak bisa di gunakan di klass
+
+
+cons; => bisa di gunakan di kelas

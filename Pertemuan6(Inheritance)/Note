@@ -1,0 +1,8 @@
+Inheritance Merupakan Konswep dari OOP PHP
+
+1. Menciptakan Hierarki antar Kelas (Parent & Child)
+2. Child Class, Mewaris semua Property dan Method dari Parent-nya (yang VVisible)
+3. Child CLass, Memperluas (Extends) Fungsionalitas dari Parentnya
+
+Kenapa Kita Butuh Inheritance?
+

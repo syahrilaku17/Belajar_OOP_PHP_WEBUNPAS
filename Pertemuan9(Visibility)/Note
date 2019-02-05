@@ -1,0 +1,13 @@
+Visibility (Akses Modifier)
+
+- Sebuah Konsep unutuk mengatur Akses dari property dan  method pad sebuah 
+objek
+1. public => Property dan methid dapat di gunakan dimana saja, bahkan di luar kelas
+2. Protected => hanya dapat digunakan dalam sebuah kelas beserta turunannya
+3. Private => Hanya dapat di gunakan di dalam sebuah kelas tertentu saja
+
+kenapa kita perlu Visibility?
+
+hanya memperlihatkan aspek dari class yang di butuhkan client
+dapat menentukan kebutuhan objek dengan jelas 
+memberikan kendali kita, untuk menghindari bug

@@ -1,0 +1,55 @@
+Pertemuan Pertama OOP (Object Oriented Programming) PHP
+
+Object Oriented Programming => Style Ngoding
+
+Procedural programming :
+1. intruksui di lakukan langkah demi langkah
+2. Linera artinya di baca dari atas Ke bawah / Top-to-Bottom
+
+Kenapa kita pilih Proseduran  :
+1. To-the-point
+2. kemudahan untuk di implementasi (Untuk Kompailer dan Interpreter)
+3. Mudah di telusuri jika ada Error
+4. Membutuhkan sedikit memori 
+
+Object Oriented Programming :
+1.Menyusun semua kode program dan struktur data sebagai objek
+2.Objek merupakan unit dasar dari program
+3.Objek menyimpan data dan prilaku
+4.Objek Bisa saling berinteraksi
+
+Kelebihan OOP :
+1. Lebih Mudah Merepresentatifkan dunia nyata
+2. Enkapsulasi  adalah memungkinkan data yang kita buat aman  
+3. Abstraksi data
+4. Reusability
+5. Skalabilitas $ Eksistensitas
+6. Kemudahan dalam Pengelolaan
+7. Kolaborasi 
+
+Program simple Pake Procedural
+
+Program Complex Pake OOP
+
+Konsep OOP pada PHP :
+1. Basic = OOP dasar
+    - Kelas & Objek
+    - Property & Method (data dan prilaku)
+    - Condtruktor (Karakter)
+    - Object Type
+    - inheritance (Pewarisan )
+    - Visibility / Acces Modifier
+    - Setter & Getter
+    - Static Method
+2. Advanced 
+    - Abstarct & Interfaces
+    - Interceptor Magic Method
+    - Object Cloning
+    - Callbacks & Clouseres
+    - NameSapces & Autoloading
+
+1. Alat & Bahan 
+    - Code Editor 
+    - Web Server
+    - Browser
+    - Database Server

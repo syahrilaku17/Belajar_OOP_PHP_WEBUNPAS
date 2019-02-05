@@ -1,0 +1,13 @@
+Interface
+=========
+interface merupakan 
+- kelas abstrak yang sama sekali tidak
+  memiliki implemetasi
+- Murni merupakan template untuk kelas turunannya
+- Tidak boleh memiliki property
+- Semua methodnya harus dideklarasikan visibility public
+- boleh mendeklarasikan __construct()
+- satu kelas boleh mengimplementasikan banyak interface
+- dengan menggunakan type-hinting dapat melakukan depedency injection
+- pada akhirnya akan mencapai polymorphism
+menggunakan inteface kita menggunakan interface di depannnya

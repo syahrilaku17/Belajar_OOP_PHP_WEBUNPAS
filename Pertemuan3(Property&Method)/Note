@@ -1,0 +1,11 @@
+Property : 
+1. Sesuatu yang mempresentasikan Data  keadaan Sebuah Object
+2. Variabel yang ada di dalam object (Member Variabel)
+3. Aturan Penulisan Sama dengan Variabel, ditambah dengan visibility di depannya
+
+Method : mempresentasikan Prilaku dari Sebuah Object
+1. mempresentasikan prilaku dari sebuah objek
+2. Function yang ada di dalam Objek
+3. Sama Seperti Function di dalam PHP, di Tambahan Vsisibility di depannya (Private, Public)
+
+method adalah function yang ada di dalam kealas

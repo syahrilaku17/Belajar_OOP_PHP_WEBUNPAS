@@ -1,0 +1,9 @@
+namespace => Sebuah cara untuk mengelompokan program ke
+ dalam sebuah package tersendiri (Enkapsulasi)
+
+ PHP tidak mengijinkan kita memiliki 2 class nama yang sama
+
+!!!!!!!!PENTING!!!!!!!!
+Aturan Penulisan namespace Vendor(namapembuat,namaaplikasi)\NameSpace\SubNamespace
+
+Kenaoa Butuh Alias
